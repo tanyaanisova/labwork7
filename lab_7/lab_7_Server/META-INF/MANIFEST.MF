@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: TCPServer.Server
+Class-Path: lib/postgresql-9.4.1212.jar
+
